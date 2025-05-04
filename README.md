@@ -37,8 +37,8 @@ Welcome to my GitHub! I'm a passionate and results-driven Web Developer helping 
 
 ## 📬 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-faraz-812a85225/)
-- 🌐 [Spark Solutions 360 Website](https://your-agency-site.com)
-- 📧 Email: yourname@example.com
+- 🌐 [Spark Solutions 360 Website](https://sparksolutions360.com/)
+- 📧 Email: khanzai9290@gmail.com
 
 ---
 
