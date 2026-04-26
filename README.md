@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Muhammad Faraz
+# Hi, I'm Muhammad Faraz
 
-🎯 WordPress Developer | WooCommerce Expert | Elementor Specialist | SEO & Performance Optimization
+WordPress Developer | WooCommerce Expert | Elementor Specialist | SEO & Performance Optimization
 
 Welcome to my GitHub! I'm a passionate and results-driven Web Developer helping businesses build powerful, fast, and SEO-optimized websites using WordPress. I specialize in custom web solutions tailored for performance and conversion.
 
 ---
 
-## 🛠️ What I Do
-- 💻 **Custom WordPress Development**
-- 🛒 **WooCommerce Stores**
-- ⚡ **Speed & Performance Optimization**
-- 🎨 **UI/UX & Elementor Design**
-- 📈 **On-Page SEO Optimization**
-- 🌐 **Responsive, Mobile-First Web Design**
+## What I Do
+-  **Custom WordPress Development**
+-  **WooCommerce Stores**
+-  **Speed & Performance Optimization**
+-  **UI/UX & Elementor Design**
+-  **On-Page SEO Optimization**
+-  **Responsive, Mobile-First Web Design**
 
 ---
 
-## 🚀 Featured Projects
-- 🔧 **Spark Solutions 360** – My Web Agency delivering high-quality WordPress & ecommerce solutions.  
-- 🕒 **Watch Store USA (WooCommerce)** – High-performance eCommerce store for luxury watches *(coming soon)*  
-- 🔐 **Cyber Secret Society** – Cybersecurity tools & training platform (WordPress-based with gated content)
+##  Featured Projects
+-  **Spark Solutions 360** – My Web Agency delivering high-quality WordPress & ecommerce solutions.  
+-  **Watch Store USA (WooCommerce)** – High-performance eCommerce store for luxury watches *(coming soon)*  
+-  **Cyber Secret Society** – Cybersecurity tools & training platform (WordPress-based with gated content)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?logo=wordpress)
 ![Elementor](https://img.shields.io/badge/-Elementor-612c94?logo=elementor)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588a?logo=woocommerce)
@@ -35,10 +35,10 @@ Welcome to my GitHub! I'm a passionate and results-driven Web Developer helping 
 
 ---
 
-## 📬 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-faraz-812a85225/)
-- 🌐 [Spark Solutions 360 Website](https://sparksolutions360.com/)
-- 📧 Email: khanzai9290@gmail.com
+##  Let's Connect!
+-  [LinkedIn](https://www.linkedin.com/in/muhammad-faraz-812a85225/)
+-  [Spark Solutions 360 Website](https://sparksolutions360.com/)
+-  Email: khanzai9290@gmail.com
 
 ---
 
